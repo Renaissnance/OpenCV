@@ -9,14 +9,14 @@ using namespace std;
 
 /////////////////  Images  //////////////////////
 
-void main() {
-
-    string path = "Resources/test.png";
-    Mat img = imread(path);
-    imshow("Image", img);
-    waitKey(0);
-
-}
+//void main() {
+//
+//    string path = "Resources/test.png";
+//    Mat img = imread(path);
+//    imshow("Image", img);
+//    waitKey(0);
+//
+//}
 ///////////////  Video  //////////////////////
 
 //void main() {
@@ -53,5 +53,6 @@ void main() {
 using namespace std;
 int main()
 {
-cout<<hello world<<endl;
+cout<<"hello world "<< endl;
+system("pause");
 }

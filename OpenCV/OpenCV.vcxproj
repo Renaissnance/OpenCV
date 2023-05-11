@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\BaiduNetdiskDownload\4h上手C++版Opencv\Learn-OpenCV-cpp-in-4-Hours-main\Chapter1.cpp" />
     <ClCompile Include="Test.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
