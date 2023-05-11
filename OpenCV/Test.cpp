@@ -38,7 +38,7 @@ void main() {
 
 //void main() {
 //
-//	VideoCapture cap(0); //1就是外置摄像头
+//	VideoCapture cap(0); //1戮脥脢脟脥芒脰脙脡茫脧帽脥路
 //	Mat img;
 //
 //	while (true) {
@@ -48,3 +48,10 @@ void main() {
 //		waitKey(1);
 //	}
 //}
+//pull娴嬭瘯
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<hello world<<endl;
+}
